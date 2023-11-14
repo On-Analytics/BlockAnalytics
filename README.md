@@ -12,3 +12,5 @@ If you are getting started with Python and want to learn about on-chain data. Th
 We provide analysis of on chain data. 
 You can contact me in [linkedin](https://www.linkedin.com/in/oscarquirogap/). Check my webpage too for more information [WebPage](http://onanalytics.co/).
 
+## License
+This project is licensed under the [MIT License](LICENSE).
